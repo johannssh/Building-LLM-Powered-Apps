@@ -1,5 +1,7 @@
 # Building-LLM-Powered-Apps
 
+Weights and Biases Course: Building LLM Powered Apps
+
 Tools/Languages Utilitzed: Python, OpenAi's GPT 3.5, Weights and Biases
 
 - Token Splitting
