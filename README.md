@@ -2,7 +2,7 @@
 
 Weights and Biases Course: Building LLM Powered Apps
 
-Tools/Languages Utilitzed: Python, OpenAi's GPT 3.5, Weights and Biases
+Tools/Languages Utilitzed: Python, OpenAi's GPT 3.5, Weights and Biases, LangChain, Gradio (Hugging Faces)
 
 - Token Splitting
 
